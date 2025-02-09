@@ -1,0 +1,150 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#header{
+    padding: 30px;
+}
+#header .left h1{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #021206;
+}
+#header .left h1 span{
+background: linear-gradient(154.24deg, #3EFFC0 4.45%, #18CA90 83.73%);
+-webkit-background-clip: text;
+color: transparent;
+}
+#header .left p{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #021206;
+    padding: 15px 0;
+}
+#header .left form input{
+    padding: 11px 100px 11px 15px;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5); /* Har tomonga soya */
+}
+#header .left form button{
+    padding: 11px 20px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    color: #FFFFFF;
+    background-color: red;    
+    color: #FFFFFF;
+    }
+    #header .left .apps {
+        padding: 40px 0;
+        gap: 40px;
+    }
+
+
+    @media screen and (max-width: 1200px) {
+        #header .left h1{
+            font-size: 45px;
+        }}
+@media screen and (max-width: 992px) {
+    #header .left h1{
+        font-size: 36px;
+    }
+    #header .left p{
+        font-size: 17px;
+        padding: 0;
+    }
+    #header .left form input{
+        padding: 10px 80px 10px 12px;
+    }
+    #header .left form button{
+        padding: 10px 15px;
+    }
+    #header .left .apps {
+        padding: 30px 0;
+        gap: 20px;
+    }
+    
+}
+@media screen and (max-width: 768px) {
+    #header{
+        padding: 0 0 20px 0;
+    }
+    #header .left h1{
+        font-size: 30px;
+    }
+    #header .left p{
+        font-size: 13px;
+        padding: 0;
+    }
+    #header .left p br{
+        display: none;
+    }
+    #header .left form input{
+        padding: 7px 40px 7px 10px;
+        border-radius: 5px 0 0 5px;
+    }
+    #header .left form button{
+        padding: 7px 12px;
+        border-radius: 0 5px 5px 0;
+    }
+    #header .left .apps {
+        padding: 25px 0;
+    }
+    
+}
+@media screen and (max-width: 576px) {
+    #header .left h1{
+        font-size: 25px;
+    }
+    #header .left p{
+        font-size: 12px;
+    }
+    #header .left form{
+        justify-content: end;
+        font-size: 13px;
+    }
+    #header .left form input{
+        padding: 5px 20px 5px 10px;
+        border-radius: 3px 0 0 3px;
+    }
+    #header .left form button{
+        padding: 5px 12px;
+        border-radius: 0 8px 8px 0;
+    }
+    #header .left .apps {
+        padding: 20px 0;
+        gap: 15px;
+    }
+    #header .left .apps img{
+        width: 25vw;
+    }
+    
+}
+@media screen and (max-width: 320px) {
+    #header .left h1{
+        font-size: 20px;
+    }
+    #header .left p{
+        font-size: 11px;
+    }
+    #header .left form{
+        font-size: 11px;
+    }
+    #header .left form input{
+        padding: 3px 0 3px 7px;
+    }
+    #header .left form button{
+        padding: 3px 8px;
+        border-radius: 0 3px 3px 0;
+    }
+    #header .left .apps {
+        padding: 15px 0;
+        gap: 15px;
+    }
+    #header .left .apps img{
+        width: 25vw;
+    }
+    
+}

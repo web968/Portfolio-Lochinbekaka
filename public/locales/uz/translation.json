@@ -1,0 +1,133 @@
+{
+  "home": "Bosh sahifa",
+  "about": "Biz haqimizda",
+  "service": "Xizmatlarimiz",
+  "portfolio": "Portfolio",
+  "team": "Jamoamiz",
+  "blog": "Blog",
+  "contact": "Aloqa",
+  "title": "Hayotingizni rivojlantiring",
+  "subtitle": "Bitta qadam bilan.",
+  "description": "Internet imkoniyatlarini kengaytirish. Eng so‘nggi dasturiy ta’minot uchun yaxshi. Buni dasturiy ta’minot kechasi qiling.",
+  "email_placeholder": "Emailingizni kiriting",
+  "send": "Yuborish",
+  "prices": "Narxlar",
+  "feature": {
+    "title": "Hamyonbop",
+    "description": "Xizmatlarimiz narxi siz va biznesingiz uchun albatta maqbul va to'g'ri tanlov bo'ladi.",
+    "price": "narxlar"
+  },
+  "feature1": {
+    "title1": "Kuchli ",
+    "team-sec": "jamoa",
+    "title3": "Tezkor va ",
+    "team-sec2": "sifatli ish",
+    "description1": "LODE-X IT GROUP jamoasi har tomonlama professional va tajribali bo'lgan mutaxassislardan iborat,",
+    "description3": "Biz doimo mijozlarimizga oz muddatda mukammal bo'lgan loyihalarni taqdim etamiz"
+  },
+  "portfolio1": "Portfolio",
+  "viewAll": "Barchasini ko'rish",
+  "portfolioItems": {
+    "item1": {
+      "title": "Loyiha 1",
+      "description": "Bu birinchi loyiha."
+    },
+    "item2": {
+      "title": "Loyiha 2",
+      "description": "Bu ikkinchi loyiha."
+    },
+    "item3": {
+      "title": "Loyiha 3",
+      "description": "Bu uchinchi loyiha."
+    },
+    "item4": {
+      "title": "Loyiha 4",
+      "description": "Bu to‘rtinchi loyiha."
+    },
+    "item5": {
+      "title": "Loyiha 5",
+      "description": "Bu beshinchi loyiha."
+    },
+    "item6": {
+      "title": "Loyiha 6",
+      "description": "Bu oltinchi loyiha."
+    }
+  },
+  "servicesTitle": "Xizmatlarimiz",
+  "services2": [
+    {
+      "title": "Veb-saytlar",
+      "description": "Korporativ veb saytlardan tortib veb ilovalargacha boʻlgan murakkablikdagi internet saytlarni sifat kafolati bilan ishlab chiqamiz"
+    },
+    {
+      "title": "Mobil ilovalar",
+      "description": "Istalgan qiyinchilikdagi mobil ilovalarni ishlab chiqish va ularni texnik qoʻllab-quvvatlash"
+    },
+    {
+      "title": "CRM tizimlar",
+      "description": "Biznesni va jarayonlarni avtomatlashtirish, kanselyariya ishlarini 100% gacha kamaytiruvchi boshqaruv elektron tizimlarini  ishlab  chiqish."
+    },
+    {
+      "title": "Logo va brending",
+      "description": "Biznesni ilgari surish uchun asosiy vositalar va marketing materiallari to'plamini noldan yaratish."
+    },
+    {
+      "title": "O'yinlar ishlab chiqarish",
+      "description": "Xalqaro darajaga mos keladigan har qanday mavzu va murakkablikdagi o'yinlarni ishlab chiqish.."
+    },
+    {
+      "title": "Sun'iy intellekt",
+      "description": "Inson aql-zakovati imkoniyatlariga ega intellektual kompyuter tizimlarini ishlab chiqish"
+    },
+    {
+      "title": "Kiber xavfsizlik",
+      "description": "Tarmoqlar, qurilmalar, kodlar va ma'lumotlardagi zaifliklarni topish va tuzatish."
+    },
+    {
+      "title": "Telegram Bot",
+      "description": "Telegram botlar mijozlaringiz bilan aloqa qilishga yordam beradi. Telegram botlar har qanday biznes boshlash uchun eng yaxshi tanlov."
+    },
+    {
+      "title": "Internet magazine",
+      "description": "Mahsulotlaringizni onlayn sotmoqchimisiz? Unda sizga Onlayn Internet Magazin xizmatimizni taklif qilamiz."
+    }
+  ],
+  "contact1": {
+    "title": "Biz bilan bog'laning",
+    "titlee": "Aloqa:",
+    "formDescription": "Ushbu birlamchi ma’lumotlarni to‘ldirganingizdan so‘ng bizning mas’ul xodimlarimiz siz bilan aloqaga chiqishadi.",
+    "companyName": "Kompaniya nomini kiriting:",
+    "fullName": "F.I.SH (Familiya, Ism, Sharif)",
+    "phoneNumber": "Telefon raqamingiz:",
+    "projectDescription": "Loyiha tavsifi",
+    "projectType": "Loyiha turi",
+    "submit": "Yuborish"
+  },
+  "descriptions": {
+    "type1": "Tavsif 1",
+    "type2": "Tavsif 2"
+  },
+  "projectTypes": {
+    "type1": "Mobil ilovalar",
+    "type2": "CRM tizimlar",
+    "type3": "UI&UX dizayn",
+    "type4": "O'yinlar ishlab chiqirish",
+    "type5": "Sun'iy intellekt",
+    "type6": "Kiberxavfsizlik",
+    "type7": "Telegram Bot",
+    "type8": "Internet magazine"
+  },
+   "footer": {
+    "address": "Manzil:",
+    "homepage": "Bosh sahifa",
+    "socialNetwork": "Ijtimoiy tarmoq"
+  },
+  "menuLinks": [
+    { "title": "Asosiy", "url": "/" },
+    { "title": "Xizmatlar", "url": "/services" },
+    { "title": "Yangiliklar", "url": "/news" },
+    { "title": "Biz haqimizda", "url": "/about" },
+    { "title": "Tanlov", "url": "/contest" },
+    { "title": "Aloqa", "url": "/contact" }
+  ]
+}

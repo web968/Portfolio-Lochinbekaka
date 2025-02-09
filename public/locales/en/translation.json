@@ -1,0 +1,137 @@
+{
+  "home": "Home",
+  "about": "About",
+  "service": "Services",
+  "portfolio": "Portfolio",
+  "team": "Team",
+  "blog": "Blog",
+  "contact": "Contact",
+  "title": "Develop Your Life With",
+  "subtitle": "One Step.",
+  "description": "Pushing the possibilities of the internet. Good for the last software. Make it A software night.",
+  "email_placeholder": "Enter your email",
+  "send": "Send",
+  "feature": {
+    "title": "Affordable",
+    "description": "The prices of our services will definitely be reasonable and the right choice for you and your business.",
+    "price": "prices"
+  },
+  "feature1": {
+    "team-sec": "Team",
+    "title1": "Strong ",
+    "title3": "Fast and ",
+    "team-sec2": "quality work",
+    "description1": "The LODE-X IT GROUP team consists of professionals who are fully professional and experienced,",
+    "description3": "We always provide our clients with perfect projects in a short time."
+  },
+    "portfolio1": "Portfolio",
+    "viewAll": "View All",
+    "portfolioItems": {
+      "item1": {
+        "title": "Project 1",
+        "description": "This is the first project."
+      },
+      "item2": {
+        "title": "Project 2",
+        "description": "This is the second project."
+      },
+      "item3": {
+        "title": "Project 3",
+        "description": "This is the third project."
+      },
+      "item4": {
+        "title": "Project 4",
+        "description": "This is the fourth project."
+      },
+      "item5": {
+        "title": "Project 5",
+        "description": "This is the fifth project."
+      },
+      "item6": {
+        "title": "Project 6",
+        "description": "This is the sixth project."
+      }
+    },
+  
+  "servicesTitle": "Our Services",
+  "services2": [
+    {
+      "title": "Web-sites",
+      "description": "We develop websites of any complexity, from corporate websites to web applications, with a quality guarantee."
+    },
+    {
+      "title": "Mobile applications",
+      "description": "Development of mobile applications of any complexity and their technical support"
+    },
+    {
+      "title": "CRM systems",
+      "description": "Development of electronic management systems that automate business and processes, reduce clerical work by up to 100%.."
+    },
+    {
+      "title": "Logo and branding",
+      "description": "Creation of a set of basic tools and marketing materials from scratch for business promotion."
+    },
+    {
+      "title": "Game Development",
+      "description": "Development of games of any subject and complexity that meet the international level."
+    },
+    {
+      "title": "Artificial Intelligence",
+      "description": "Development of intelligent computer systems with the capabilities of human intelligence."
+    },
+    {
+      "title": "Cyber ​​Security",
+      "description": "Find and fix vulnerabilities in networks, devices, code and data."
+    },
+    {
+      "title": "Telegram Bot",
+      "description": "Telegram bots help you communicate with your customers. Telegram bots are the best choice for starting any business. Internet magazine"
+    },
+    {
+      "title": "Internet magazine",
+      "description": "Do you want to sell your products online? Then we offer you our Online Internet Magazine service."
+    }
+  ],
+  
+    "contact1": {
+      "title": "Contact Us",
+      "titlee":"Contact:",
+      "formDescription": "Once you fill out these initial details, our responsible staff will get in touch with you.",
+      "companyName": "Enter company name:",
+      "fullName": "Full Name (Last, First, Middle)",
+      "phoneNumber": "Your phone number:",
+      "projectDescription": "Project description",
+      "projectType": "Project type",
+      "submit": "Submit"
+    },
+    "descriptions": {
+      "type1": "Description 1",
+      "type2": "Description 2"
+    }, "projectTypes": {
+      "type1": "Mobile Applications",
+      "type2": "CRM Systems",
+      "type3": "UI&UX Design",
+      "type4": "Game Development",
+      "type5": "Artificial Intelligence",
+      "type6": "Cybersecurity",
+      "type7": "Telegram Bot",
+      "type8": "Online Store"
+    },
+    "footer": {
+      "address": "Address:",
+      "homepage": "Home",
+      "socialNetwork": "Social Networks"
+    },
+    "menuLinks": [
+      { "title": "Home", "url": "/" },
+      { "title": "Services", "url": "/services" },
+      { "title": "News", "url": "/news" },
+      { "title": "About Us", "url": "/about" },
+      { "title": "Contest", "url": "/contest" },
+      { "title": "Contact", "url": "/contact" }
+    ]
+  
+  
+  
+
+}

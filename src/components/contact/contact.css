@@ -1,0 +1,296 @@
+#contact{
+    padding: 120px 0;
+}
+/* #contact .contact-content {
+    padding: 0 200px;
+} */
+#contact .contact-content h1{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #021206;
+}
+#contact .contact-content .content{
+    padding: 0 80px;
+}
+#contact .contact-content .text h3{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    color: #021206;
+}
+#contact .contact-content .text p{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+#contact .contact-content .content .left label{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #021206;
+}
+#contact .contact-content .content .left label span{
+    font-weight: 700;
+}
+#contact .contact-content .content .left textarea,
+#contact .contact-content .content .left input{
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    width: 15vw;
+    height: 3vh;
+    outline: none;
+    padding: 1px 0 0 7px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px 0px #0000001A;
+    border: 0.2px solid #0000005a
+}
+#contact .content .right p{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #021206;
+}
+#contact .content .right input[type="checkbox"] {
+    width: 20px; /* Checkbox kengligi */
+    height: 20px; /* Checkbox balandligi */
+    margin: 10px 0;
+  }  
+#contact .content .right span{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 40px 10px;
+}
+#contact .contact-content button{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 14px;
+    border: none;
+    padding: 5px 100px;
+    margin-top: 50px;
+    background: linear-gradient(91.76deg, #6A8CD3 0.13%, #6258DB 45.51%, #5F35E0 99.87%);
+    color: #FFFFFF;    
+}
+
+/* Media  */
+@media screen and (max-width: 1400px) {
+    #contact .contact-content .content{
+        padding: 0 80px;
+    }
+    #contact .contact-content .content .left textarea,
+    #contact .contact-content .content .left input{
+        width: 20vw;
+        height: 4vh;
+    }
+}
+@media screen and (max-width: 1200px) {
+    #contact{
+        padding: 90px 0;
+    }
+    #contact .contact-content h1{
+        font-size: 45px;
+    }
+    #contact .contact-content .content{
+        padding: 0 70px;
+    }
+    #contact .contact-content .content .left textarea,
+    #contact .contact-content .content .left input{
+        width: 25vw;
+        height: 4vh;
+        padding-right: 5px;
+    }
+}
+@media screen and (max-width: 992px) {
+    #contact{
+        padding: 80px 0;
+    }
+    #contact .contact-content h1{
+        font-size: 35px;
+    }
+    #contact .contact-content .content{
+        padding: 0 30px;
+    }
+    #contact .contact-content .text h3{
+        font-size: 35px;
+    }
+    #contact .contact-content .text p{
+        font-size: 17px;
+    }
+    #contact .contact-content .content .left label{
+        font-size: 15px;
+    }
+    #contact .contact-content .content .left textarea,
+    #contact .contact-content .content .left input{
+        width: 28vw;
+        height: 3vh;
+        margin-bottom: 10px;
+    }
+    #contact .content .right p{
+        font-size: 15px;
+    }
+    #contact .content .right input[type="checkbox"] {
+        width: 16px; /* Checkbox kengligi */
+        height: 16px; /* Checkbox balandligi */
+        margin: 8px 0;
+      }  
+    #contact .content .right span{
+        font-size: 16px;
+        padding: 0px 7px;
+    }
+    #contact .contact-content button{
+        font-size: 18px;
+        border-radius: 7px;
+        padding: 5px 80px;
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 768px) {
+    #contact{
+        padding: 50px 0;
+    }
+    #contact .contact-content h1{
+        font-size: 30px;
+    }
+    #contact .contact-content .text br{
+        display: none;
+    }
+    #contact .contact-content .content{
+        padding: 0 20px;
+    }
+    #contact .contact-content .text h3{
+        font-size: 30px;
+    }
+    #contact .contact-content .text p{
+        font-size: 15px;
+    }
+    #contact .contact-content .content .left label{
+        font-size: 13px;
+    }
+    #contact .contact-content .content .left textarea,
+    #contact .contact-content .content .left input{
+        width: 30vw;
+        height: 3vh;
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+    #contact .content .right p{
+        font-size: 13px;
+    }
+    #contact .content .right input[type="checkbox"] {
+        width: 15px; /* Checkbox kengligi */
+        height: 15px; /* Checkbox balandligi */
+        margin: 5px 0;
+      }  
+    #contact .content .right span{
+        font-size: 14px;
+        padding: 0px 5px;
+    }
+    #contact .contact-content button{
+        font-size: 15px;
+        border-radius: 5px;
+        padding: 5px 60px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 576px) {
+    #contact{
+        padding: 20px 0;
+    }
+    #contact .contact-content h1{
+        font-size: 20px;
+    }
+    #contact .contact-content .content{
+        padding: 0 ;
+    }
+    #contact .contact-content .text h3{
+        font-size: 20px;
+    }
+    #contact .contact-content .text p{
+        font-size: 13px;
+    }
+    #contact .contact-content .content .left label{
+        font-size: 12px;
+    }
+    #contact .contact-content .content .left textarea,
+    #contact .contact-content .content .left input{
+        width: 40vw;
+        height: 4vh;
+        margin-bottom: 1px;
+        font-size: 13px;
+        border-radius: 4px;
+    }
+    #contact .contact-content .content .left input::placeholder{
+        font-size: 11px;
+    }
+    #contact .content  {
+        gap: 10px;
+    }
+    #contact .content .right p{
+        font-size: 12px;
+    }
+    #contact .content .right input[type="checkbox"] {
+        width: 12px; /* Checkbox kengligi */
+        height: 12px; /* Checkbox balandligi */
+        margin: 2px 0;
+      }  
+    #contact .content .right span{
+        font-size: 12px;
+    }
+    #contact .contact-content button{
+        font-size: 13px;
+        border-radius: 4px;
+        padding: 4px 40px;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 320px) {
+    #contact{
+        padding: 20px 0;
+    }
+    #contact .contact-content h1{
+        font-size: 17px;
+    }
+    #contact .contact-content .text h3{
+        font-size: 15px;
+    }
+    #contact .contact-content .text p{
+        font-size: 11px;
+    }
+    #contact .contact-content .content2 {
+        gap: 10px;
+    }
+    #contact .contact-content .content .left label{
+        font-size: 10px;
+    }
+    #contact .contact-content .content .left textarea,
+    #contact .contact-content .content .left input{
+        width: 40vw;
+        height: 2vh;
+        margin-bottom: 0;
+        font-size: 11px;
+        border-radius: 3px;
+    }
+    #contact .contact-content .content .left input::placeholder{
+        font-size: 10px;
+    }  
+    #contact .content .right p{
+        font-size: 11px;
+    }
+    #contact .content .right input[type="checkbox"] {
+        width: 10px; /* Checkbox kengligi */
+        height: 10px; /* Checkbox balandligi */
+        margin: 0;
+      }  
+    #contact .content .right span{
+        font-size: 11px;
+    }
+    #contact .contact-content button{
+        font-size: 11px;
+        border-radius: 4px;
+        padding: 4px 20px;
+        margin-top: 10px;
+    }
+}

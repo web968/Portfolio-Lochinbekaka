@@ -1,0 +1,170 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#portfolio .top h1{
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 55px;
+    text-transform: uppercase;
+    color: #021206;
+}
+#portfolio img{
+    border-radius: 20px;
+}
+#portfolio .portfolio-item{
+    cursor: pointer;
+}
+
+#portfolio .portfolio-text{
+    position: relative;
+    bottom: 80px;
+    background-color: #FFFFFF;
+    margin: 12px 150px 0 0;
+    border-radius: 0 20px 0 0;
+}
+#portfolio .portfolio-text h3{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: #021206;
+    padding-left: 10px;
+    margin: 0;
+}
+#portfolio .portfolio-text p{
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #021206;
+    padding-left: 10px;
+}
+#portfolio .more a button{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 50px;
+    background: linear-gradient(91.76deg, #6A8CD3 0.13%, #6258DB 45.51%, #5F35E0 99.87%);
+    color: #FFFFFF;
+}
+
+
+
+
+/* Media  */
+@media screen and (max-width: 1200px) {
+    #portfolio .top h1{
+        font-size: 50px;
+    }
+    #portfolio .portfolio-text h3{
+        font-size: 30px;
+    }
+    #portfolio .portfolio-text p{
+        font-size: 19px;
+        padding-bottom: 5px;
+    }
+    #portfolio .more a button{
+        padding: 10px 50px;
+    }
+}
+/* Media  */
+@media screen and (max-width: 992px) {
+    #portfolio .top h1{
+        font-size: 40px;
+    }
+    #portfolio img{
+        border-radius: 15px;
+    }
+    #portfolio .portfolio-text{
+        bottom: 60px;
+        margin: 10px 120px 0 0;
+        border-radius: 0 10px 0 0;
+    }
+    #portfolio .portfolio-text h3{
+        font-size: 22px;
+    }
+    #portfolio .portfolio-text p{
+        font-size: 15px;
+        padding-bottom: 12px;
+        margin: 0;
+    }
+    #portfolio .more a button{
+        font-size: 20px;
+        border-radius: 8px;
+        padding: 10px 45px;
+    }
+}
+@media screen and (max-width: 768px) {
+    #portfolio .top h1{
+        font-size: 30px;
+    }
+    #portfolio img{
+        border-radius: 15px;
+    }
+    #portfolio .portfolio-text{
+        margin: 10px 270px 0 0;
+        border-radius: 0 10px 0 0;
+    }
+    #portfolio .portfolio-text h3{
+        font-size: 25px;
+        padding-left: 5px;
+    }
+    #portfolio .portfolio-text p{
+        font-size: 15px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    }
+    #portfolio .more a button{
+        font-size: 18px;
+        border-radius: 5px;
+        padding: 10px 40px;
+    }
+}
+@media screen and (max-width: 576px) {
+    #portfolio .top h1{
+        font-size: 25px;
+    }
+    #portfolio img{
+        border-radius: 10px;
+    }
+    #portfolio .portfolio-text{
+        bottom: 50px;
+        margin: 10px 200px 0 0;
+        border-radius: 0 10px 0 0;
+    }
+    #portfolio .portfolio-text h3{
+        font-size: 18px;
+    }
+    #portfolio .portfolio-text p{
+        font-size: 11px;
+        padding-bottom: 0;
+    }
+    #portfolio .more a button{
+        font-size: 15px;
+        padding: 8px 30px;
+    }
+}
+@media screen and (max-width: 320px) {
+    #portfolio .top h1{
+        font-size: 20px;
+    }
+    #portfolio img{
+        border-radius: 8px;
+    }
+    #portfolio .portfolio-text{
+        bottom: 45px;
+        margin: 10px 120px 0 0;
+        border-radius: 0 5px 0 0;
+    }
+    #portfolio .portfolio-text h3{
+        font-size: 15px;
+    }
+    #portfolio .portfolio-text p{
+        font-size: 12px;
+        padding-bottom: 0;
+    }
+    #portfolio .more a button{
+        font-size: 12px;
+        padding: 7px 25px;
+    }
+}
