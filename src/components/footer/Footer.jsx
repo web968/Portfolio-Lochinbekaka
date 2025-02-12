@@ -4,10 +4,10 @@ import './footer.css';
 import { useTranslation } from "react-i18next"; // i18n kutubxonasini import qilish
 
 const socialIcons = [
-  { icon: <Instagram className="icon" />, link: "https://t.me/abdulatifProjects" },
-  { icon: <YouTube className="icon" />, link: "https://t.me/abdulatifProjects" },
-  { icon: <Facebook className="icon" />, link: "https://t.me/abdulatifProjects" },
-  { icon: <Telegram className="icon" />, link: "https://t.me/abdulatifProjects" },
+  { icon: <Instagram className="icon" />, link: "https://instagram.com" },
+  { icon: <YouTube className="icon" />, link: "https://youtube.com" },
+  { icon: <Facebook className="icon" />, link: "https://facebook.com/" },
+  { icon: <Telegram className="icon" />, link: "https://t.me" },
 ];
 
 const Footer = () => {

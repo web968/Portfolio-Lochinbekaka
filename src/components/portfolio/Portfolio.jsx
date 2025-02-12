@@ -50,7 +50,7 @@ export default function Portfolio() {
           <div className="more text-center">
             <motion.a
               target="_blank"
-              href="https://t.me/abdulatifProjects"
+              href="#"
               whileHover={{ scale: 1.1, backgroundColor: "#4f29d4" }}
               transition={{ duration: 0.3 }}
             >

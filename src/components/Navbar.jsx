@@ -59,7 +59,7 @@ export default function Navbar() {
           </ul>
 
           <div className="left">
-            <span>+998 94 253 40 99</span>
+            <span>+998 99 280 75 76</span>
             <button type="submit" onClick={() => changeLanguage("uz")}>UZB</button>
             <button type="submit" onClick={() => changeLanguage("en")}>ENG</button>
             <div className="open-bar" onClick={toggleSidebar}>
