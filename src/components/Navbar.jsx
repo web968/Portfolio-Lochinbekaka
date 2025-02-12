@@ -43,7 +43,7 @@ export default function Navbar() {
         <div className="nav-content d-flex align-items-center justify-content-between">
           <div className="logo">
             <a href="#" className="brand">
-              <h1>Logo</h1>
+              <h1>Logos</h1>
             </a>
           </div>
 
